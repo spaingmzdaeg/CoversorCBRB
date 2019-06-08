@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TemperaturaCheckRadioB</string>
+    <string name="fah">F°</string>
+    <string name="kel">K°</string>
+    <string name="rank">R°</string>
+    <string name="cent">C°</string>
+</resources>
